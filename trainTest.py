@@ -1,4 +1,3 @@
-
 import numpy
 import matplotlib.pyplot as plt
 numpy.random.seed(2)
